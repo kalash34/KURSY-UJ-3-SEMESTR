@@ -1,0 +1,83 @@
++-----------------+------+
+| ArrayList     | 1  |
++-----------------+------+
+ Zainicjowano w czasie 2 [ms]
+ Zainicjowano w czasie 3256000 [ns]
+ Dodano w czasie 0 [ms]
+ Dodano w czasie 1700 [ns]
+ Usunieto srodkowy remove(5000) w czasie 0 [ms]
+  Usunieto srodkowy remove(5000) w czasie  468400 [ns]
+ Contains(-10) w czasie 0 [ms]
+ Contains(-10) w czasie 84700 [ns]
+ toArray() w czasie 0 [ms]
+ toArray() w czasie 28400 [ns]
++-----------------+------+
++-----------------+------+
+| Vector    | 2  |
++-----------------+------+
+ Zainicjowano w czasie 1 [ms]
+ Zainicjowano w czasie 1138100 [ns]
+ Dodano w czasie 0 [ms]
+ Dodano w czasie 19800 [ns]
+ Usunieto srodkowy remove(5000) w czasie 1 [ms]
+  Usunieto srodkowy remove(5000) w czasie  242700 [ns]
+ Contains(-10) w czasie 0 [ms]
+ Contains(-10) w czasie 40400 [ns]
+ toArray() w czasie 0 [ms]
+ toArray() w czasie 10900 [ns]
++-----------------+------+
++-----------------+------+
+| TreeSet    | 3  |
++-----------------+------+
+ Zainicjowano w czasie 8 [ms]
+ Zainicjowano w czasie 7487000 [ns]
+ Dodano w czasie 0 [ms]
+ Dodano w czasie 2500 [ns]
+ Usunieto srodkowy remove(5000) w czasie 0 [ms]
+  Usunieto srodkowy remove(5000) w czasie  17100 [ns]
+ Contains(-10) w czasie 0 [ms]
+ Contains(-10) w czasie 7900 [ns]
+ toArray() w czasie 3 [ms]
+ toArray() w czasie 2475700 [ns]
++-----------------+------+
++-----------------+------+
+| HashSet    | 4  |
++-----------------+------+
+ Zainicjowano w czasie 3 [ms]
+ Zainicjowano w czasie 2913700 [ns]
+ Dodano w czasie 0 [ms]
+ Dodano w czasie 29400 [ns]
+ Usunieto srodkowy remove(5000) w czasie 0 [ms]
+  Usunieto srodkowy remove(5000) w czasie  17000 [ns]
+ Contains(-10) w czasie 0 [ms]
+ Contains(-10) w czasie 3600 [ns]
+ toArray() w czasie 2 [ms]
+ toArray() w czasie 1261000 [ns]
++-----------------+------+
++-----------------+------+
+| Stack    | 5    |
++-----------------+------+
+ Zainicjowano w czasie 1 [ms]
+ Zainicjowano w czasie 676400 [ns]
+ Dodano w czasie 0 [ms]
+ Dodano w czasie 800 [ns]
+ Usunieto srodkowy remove(5000) w czasie 1 [ms]
+  Usunieto srodkowy remove(5000) w czasie  669600 [ns]
+ Contains(-10) w czasie 0 [ms]
+ Contains(-10) w czasie 15600 [ns]
+ toArray() w czasie 0 [ms]
+ toArray() w czasie 10400 [ns]
++-----------------+------+
+| PriorityQueue   | 6  |
++-----------------+------+
+ Zainicjowano w czasie 2 [ms]
+ Zainicjowano w czasie 1680600 [ns]
+ Dodano w czasie 0 [ms]
+ Dodano w czasie 2000 [ns]
+ Usunieto srodkowy remove(5000) w czasie 1 [ms]
+  Usunieto srodkowy remove(5000) w czasie  244300 [ns]
+ Contains(-10) w czasie 0 [ms]
+ Contains(-10) w czasie 2800 [ns]
+ toArray() w czasie 0 [ms]
+ toArray() w czasie 20800 [ns]
++-----------------+------+
